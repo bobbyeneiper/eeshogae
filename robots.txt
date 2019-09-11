@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohkuleghof.xydb.com/sitemap.xml
